@@ -6,6 +6,7 @@ public class hello {
 	{
 		//A comment to demonstrate.
 		//Another comment.
+		//Comment
 		System.out.println(System.getProperty("user.name")); 
 	}
 
