@@ -11,6 +11,8 @@ public class hello {
 		System.out.println(System.getProperty("user.name")); 
 		//1/23/19 comment by Theodore Stabile
 		//I like the user,name printout, something different, very nice!
+		
+		//1/23/19 comment by Catherine Davis- I appreciate the method used to print the users name.
 	}
 
 }
